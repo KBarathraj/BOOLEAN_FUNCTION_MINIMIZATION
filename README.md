@@ -1,6 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 
-**DATE :12-03-2025
+**DATE :12-03-2025**
 
 **AIM:**
 
@@ -40,6 +40,7 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: BARATHRAJ K
+
 RegisterNumber:212224230033
 
 ```
@@ -62,14 +63,18 @@ endmodule
 **Output:**
 
 **RTL**
+
 EXP 2A
 ![image](https://github.com/user-attachments/assets/eac6d3ce-7521-4e7a-8bbc-d247c88289b7)
+
 EXP 2B
 ![image](https://github.com/user-attachments/assets/fd7335f4-1435-4648-936c-fa9c42c82ada)
 
 **Timing Diagram**
+
 EXP 2A
 ![image](https://github.com/user-attachments/assets/872b7bb2-18f9-4a72-894f-27342579294d)
+
 EXP 2B
 ![image](https://github.com/user-attachments/assets/8a025bf0-57a9-4726-a0e9-a63549fabbcb)
 
